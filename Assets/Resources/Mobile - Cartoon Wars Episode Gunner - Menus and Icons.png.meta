@@ -1,0 +1,1500 @@
+fileFormatVersion: 2
+guid: 1960a739c1ec62849bfa46efdfe99843
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4762486647789663576
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_0
+  - first:
+      213: -6400871348133711267
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_1
+  - first:
+      213: 3450250654146455241
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_2
+  - first:
+      213: 7191842597486824181
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_3
+  - first:
+      213: -5767593458938424655
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_4
+  - first:
+      213: 4273894182385102227
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_5
+  - first:
+      213: 9077770395157986529
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_6
+  - first:
+      213: 6113592279941434686
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_7
+  - first:
+      213: 6446212329733978051
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_8
+  - first:
+      213: 878381657999852853
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_9
+  - first:
+      213: 7090861642666093319
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_10
+  - first:
+      213: -7947471441728905833
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_11
+  - first:
+      213: -1528991699049895384
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_12
+  - first:
+      213: 8191015740953699296
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_13
+  - first:
+      213: -6772627039093204512
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_14
+  - first:
+      213: 8921442331786526469
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_15
+  - first:
+      213: 3559991253022110398
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_16
+  - first:
+      213: -7014534448784497817
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_17
+  - first:
+      213: 3450269190894746794
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_18
+  - first:
+      213: -5284001061676836151
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_19
+  - first:
+      213: 1045596340166816557
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_20
+  - first:
+      213: -736232270004805074
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_21
+  - first:
+      213: 6810238319585993943
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_22
+  - first:
+      213: 2734118917854468639
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_23
+  - first:
+      213: -7548445140896571983
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_24
+  - first:
+      213: -6437190928163955386
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_25
+  - first:
+      213: 892512175539591056
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_26
+  - first:
+      213: -9180091774370157080
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_27
+  - first:
+      213: 8668572336375773765
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_28
+  - first:
+      213: 9043606241687639864
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_29
+  - first:
+      213: 686929191341141606
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_30
+  - first:
+      213: 6223662548090706037
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_31
+  - first:
+      213: 6091265666484542004
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_32
+  - first:
+      213: -4548527376297221650
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_33
+  - first:
+      213: 8176661053340037360
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_34
+  - first:
+      213: -7861848171409169099
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_35
+  - first:
+      213: -9086032026393781467
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_36
+  - first:
+      213: 2160236839550162871
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_37
+  - first:
+      213: -4681389653282341863
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_38
+  - first:
+      213: 1802389877252694985
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_39
+  - first:
+      213: -6379903283592658012
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_40
+  - first:
+      213: -6175856961476460719
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_41
+  - first:
+      213: -6504599960803030252
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_42
+  - first:
+      213: 3828776415677690127
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_43
+  - first:
+      213: -4435732958763492162
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_44
+  - first:
+      213: 942171671890351498
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_45
+  - first:
+      213: 3171532127726010889
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_46
+  - first:
+      213: 7050093295335233040
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_47
+  - first:
+      213: 4359241713452938171
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_48
+  - first:
+      213: 5340086820226349060
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_49
+  - first:
+      213: -8853700715031893193
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_50
+  - first:
+      213: -7792572610051201876
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_51
+  - first:
+      213: 5031883353417162221
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_52
+  - first:
+      213: 5637344564176128830
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_53
+  - first:
+      213: 7669753598576167512
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_54
+  - first:
+      213: 4328826117457507313
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_55
+  - first:
+      213: 311102475675805188
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_56
+  - first:
+      213: 442950447009518014
+    second: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 593
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aac4f660af38edb0800000000000000
+      internalID: -4762486647789663576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_1
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 593
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52b3811c698b27a0800000000000000
+      internalID: -6400871348133711267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_2
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 593
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6657290b0c1ef20800000000000000
+      internalID: 3450250654146455241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 272
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa89b70dbe8ec360800000000000000
+      internalID: 7191842597486824181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_4
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 272
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2db1f9e4465ffa0800000000000000
+      internalID: -5767593458938424655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_5
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 272
+        width: 480
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d2ca46d1cef4b30800000000000000
+      internalID: 4273894182385102227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 214
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecf2fb0418bafd70800000000000000
+      internalID: 9077770395157986529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 214
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dca7399c7d7d450800000000000000
+      internalID: 6113592279941434686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 216
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7798cd5fb857950800000000000000
+      internalID: 6446212329733978051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 216
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535cc4ec673a03c00800000000000000
+      internalID: 878381657999852853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_10
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 243
+        width: 117
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b2e82581dc76260800000000000000
+      internalID: 7090861642666093319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 243
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ddf2dc4d8e4b190800000000000000
+      internalID: -7947471441728905833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 250
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a2c91962ee7cae0800000000000000
+      internalID: -1528991699049895384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 252
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3ad252b655ca170800000000000000
+      internalID: 8191015740953699296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_14
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 252
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9d4a2479bc202a0800000000000000
+      internalID: -6772627039093204512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_15
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 252
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fb44e68845fcb70800000000000000
+      internalID: 8921442331786526469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_16
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 252
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb271e7de21a76130800000000000000
+      internalID: 3559991253022110398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_17
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 252
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763a57b551e57ae90800000000000000
+      internalID: -7014534448784497817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_18
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 252
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac71ce7c81d1ef20800000000000000
+      internalID: 3450269190894746794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_19
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 252
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca17fdb7057ba6b0800000000000000
+      internalID: -5284001061676836151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_20
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 252
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d237712e454b28e00800000000000000
+      internalID: 1045596340166816557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_21
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 178
+        width: 476
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e222f22b6a068c5f0800000000000000
+      internalID: -736232270004805074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_22
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 200
+        width: 149
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d42da26ba3d28e50800000000000000
+      internalID: 6810238319585993943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_23
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 227
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a14687baa81f520800000000000000
+      internalID: 2734118917854468639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_24
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 225
+        width: 110
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd165243298e3790800000000000000
+      internalID: -7548445140896571983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_25
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 221
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d9b6fd4f08aa6a0800000000000000
+      internalID: -6437190928163955386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 232
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0979fbc4817d26c00800000000000000
+      internalID: 892512175539591056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 224
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed6e2f5b23c99080800000000000000
+      internalID: -9180091774370157080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_28
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 224
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ab473ac94fc4870800000000000000
+      internalID: 8668572336375773765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 166
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8371c4436f7518d70800000000000000
+      internalID: 9043606241687639864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 131
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e2cb3c576788900800000000000000
+      internalID: 686929191341141606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 166
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57859d4fc14ee5650800000000000000
+      internalID: 6223662548090706037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_32
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 166
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a185bc9d5888450800000000000000
+      internalID: 6091265666484542004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_33
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 131
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee12aac437260e0c0800000000000000
+      internalID: -4548527376297221650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_34
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 166
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0ba1df7e5597170800000000000000
+      internalID: 8176661053340037360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 131
+        width: 143
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5352a11fdba15e290800000000000000
+      internalID: -7861848171409169099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_36
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 166
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bd9f8030ee7e180800000000000000
+      internalID: -9086032026393781467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_37
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 166
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7991cc5f3bafd10800000000000000
+      internalID: 2160236839550162871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_38
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 166
+        width: 92
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cbae4d9ec580fb0800000000000000
+      internalID: -4681389653282341863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_39
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 166
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3286c3b00630910800000000000000
+      internalID: 1802389877252694985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_40
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 105
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a38c1804c70677a0800000000000000
+      internalID: -6379903283592658012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_41
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 182
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f729b80d2fa4aa0800000000000000
+      internalID: -6175856961476460719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bc05a6cc40bb5a0800000000000000
+      internalID: -6504599960803030252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 131
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01bcd44ddb822530800000000000000
+      internalID: 3828776415677690127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_44
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 131
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcd862206c1172c0800000000000000
+      internalID: -4435732958763492162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_45
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 131
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85d57cc424431d00800000000000000
+      internalID: 942171671890351498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_46
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 131
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90209daaaab830c20800000000000000
+      internalID: 3171532127726010889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_47
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 131
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016d1d5cf76f6d160800000000000000
+      internalID: 7050093295335233040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_48
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 123
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb37d6cfd332f7c30800000000000000
+      internalID: 4359241713452938171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_49
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 132
+        width: 127
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40836558baccb1a40800000000000000
+      internalID: 5340086820226349060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_50
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 132
+        width: 127
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73be6eccb16512580800000000000000
+      internalID: -8853700715031893193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_51
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 122
+        width: 179
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4a57b7f783bd390800000000000000
+      internalID: -7792572610051201876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_52
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 130
+        width: 81
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded91a7ff37d4d540800000000000000
+      internalID: 5031883353417162221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_53
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 82
+        width: 127
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b8230630fdb3e40800000000000000
+      internalID: 5637344564176128830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_54
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 85
+        width: 127
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a08e50340707a60800000000000000
+      internalID: 7669753598576167512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_55
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 44
+        width: 105
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3fc713b64131c30800000000000000
+      internalID: 4328826117457507313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_56
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1
+        width: 104
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406a667ad02415400800000000000000
+      internalID: 311102475675805188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cartoon Wars Episode Gunner - Menus and Icons_57
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 38
+        width: 127
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb15a1fa51da52600800000000000000
+      internalID: 442950447009518014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
